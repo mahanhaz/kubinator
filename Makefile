@@ -2,5 +2,5 @@ permissions:
 	chmod +x ./kubinator
 	chmod -x ./services/*
 
-run:
-	./kubinator
+help:
+	./kubinator -h

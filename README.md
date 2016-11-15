@@ -10,3 +10,11 @@ Kubinator is an opensource kubernetes bootstraping solution, helps managing the 
 # Supports
 this app currently supports only on linux and Mac.
 
+# Using
+```
+# to run the app help
+make help
+
+# to run the app
+./kubinator
+```
