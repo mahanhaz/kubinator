@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source ./services/init.sh
+
+k_log success "Kubinator Is Alive"
